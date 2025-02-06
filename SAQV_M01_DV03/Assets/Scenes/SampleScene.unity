@@ -131,9 +131,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 859218199}
     m_Modifications:
+    - target: {fileID: 307307699757629900, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1298137194087878457, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819797686752960070, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_Name
       value: Barrier_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7497686086529595707, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8871460486188630064, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 9035386263719070214, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.x
@@ -197,7 +221,7 @@ GameObject:
   - component: {fileID: 503322638}
   - component: {fileID: 503322637}
   - component: {fileID: 503322636}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -303,7 +327,7 @@ GameObject:
   - component: {fileID: 518255868}
   - component: {fileID: 518255867}
   - component: {fileID: 518255866}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Center
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -408,7 +432,7 @@ GameObject:
   - component: {fileID: 522071519}
   - component: {fileID: 522071518}
   - component: {fileID: 522071517}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ramp_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -510,9 +534,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 859218199}
     m_Modifications:
+    - target: {fileID: 307307699757629900, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1298137194087878457, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819797686752960070, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_Name
       value: Barrier_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7497686086529595707, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8871460486188630064, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 9035386263719070214, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.x
@@ -572,9 +620,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 859218199}
     m_Modifications:
+    - target: {fileID: 307307699757629900, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1298137194087878457, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819797686752960070, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_Name
       value: Barrier_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7497686086529595707, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8871460486188630064, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 9035386263719070214, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.x
@@ -732,7 +804,7 @@ GameObject:
   - component: {fileID: 756220580}
   - component: {fileID: 756220579}
   - component: {fileID: 756220578}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wall_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -825,6 +897,50 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 756220576}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &767611161
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 767611163}
+  - component: {fileID: 767611162}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &767611162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767611161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf821a33218d7e4da90e8fe39c05e30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &767611163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767611161}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.4940729, y: 2.780592, z: 1.5588331}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &859218198
 GameObject:
   m_ObjectHideFlags: 0
@@ -834,7 +950,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 859218199}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enviroment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -878,7 +994,7 @@ GameObject:
   - component: {fileID: 920996696}
   - component: {fileID: 920996695}
   - component: {fileID: 920996694}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wall_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -983,7 +1099,7 @@ GameObject:
   - component: {fileID: 933248368}
   - component: {fileID: 933248367}
   - component: {fileID: 933248366}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wall_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1194,7 +1310,7 @@ GameObject:
   - component: {fileID: 1404189750}
   - component: {fileID: 1404189749}
   - component: {fileID: 1404189748}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ramp_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1300,7 +1416,7 @@ GameObject:
   - component: {fileID: 1514812602}
   - component: {fileID: 1514812601}
   - component: {fileID: 1514812600}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ramp_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1406,7 +1522,7 @@ GameObject:
   - component: {fileID: 1559363836}
   - component: {fileID: 1559363835}
   - component: {fileID: 1559363834}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ramp_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1509,7 +1625,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1895657995}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Raised_Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1548,7 +1664,7 @@ GameObject:
   - component: {fileID: 2073630507}
   - component: {fileID: 2073630506}
   - component: {fileID: 2073630505}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wall_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1710,6 +1826,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6270884853321268185, guid: bc550888d9504794f9f9e74d8f9574ea, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 3697077335547308205, guid: c4be4ee18cc0ead4fad69cfca9f9e44c, type: 3}
+    - target: {fileID: 6270884853321268185, guid: bc550888d9504794f9f9e74d8f9574ea, type: 3}
+      propertyPath: groundLayer.m_Bits
+      value: 512
+      objectReference: {fileID: 0}
     - target: {fileID: 6884183641128405777, guid: bc550888d9504794f9f9e74d8f9574ea, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1750,6 +1874,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7230623023734743857, guid: bc550888d9504794f9f9e74d8f9574ea, type: 3}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1763,6 +1891,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 859218199}
     m_Modifications:
+    - target: {fileID: 307307699757629900, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1298137194087878457, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 2279007409991090812, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1810,11 +1946,19 @@ PrefabInstance:
     - target: {fileID: 3677768630261786074, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819797686752960070, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_Name
       value: Barrier_01
       objectReference: {fileID: 0}
+    - target: {fileID: 4626454566281159516, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 4846880796221606959, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1826,6 +1970,14 @@ PrefabInstance:
     - target: {fileID: 4846880796221606959, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.z
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7497686086529595707, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8871460486188630064, guid: 822b7daa74592c942b68194d8beca838, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 9035386263719070214, guid: 822b7daa74592c942b68194d8beca838, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1944,3 +2096,4 @@ SceneRoots:
   - {fileID: 3106134573707159315}
   - {fileID: 4364990477916989803}
   - {fileID: 811608678091453048}
+  - {fileID: 767611163}
